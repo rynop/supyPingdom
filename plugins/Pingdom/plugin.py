@@ -69,7 +69,7 @@ class Pingdom(callbacks.Plugin):
             else:
                 replyStr = replyStr + " | last error: NONE"
                     
-            irc.reply(replyStr)
+            irc.queueMsg(ircmsgs.privmsg(msg.nick, replyStr))
             
     getcheck = wrap(getcheck,[optional('anything')])#   
     
