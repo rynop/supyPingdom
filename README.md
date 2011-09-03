@@ -1,6 +1,6 @@
 supyPingdom
 =====================
-This is a supybot plugin for [Pingdom](http://pingdom.com)
+This is a [Pingdom](http://pingdom.com) IRC plugin for supybot
 
 Currently, the library supports:
 
