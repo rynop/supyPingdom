@@ -19,7 +19,11 @@ Installation
 --------------------
 * clone, copy plugins/Pingdom dir to your bot's plugin directory
 * modify Pingdom/config.py and put in your api-key, username and password
-* load the plugin in your bot
+* load the plugin in your bot.  In your BotName.conf file add:
+  * add 'Pingdom' to the 'supybot.plugins:' directive
+  * supybot.plugins.Pingdom: True
+  * supybot.plugins.Pingdom.public: True (could be private if u wish)
+  * You must restart your bot (relaod wont pick up plugin)
 * run Pingdom getcheck or Pingdom getcheck "my check name" 
 * replies will always be private messages
 
