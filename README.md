@@ -16,6 +16,8 @@ Requirements
 Installation
 --------------------
 * modify Pingdom/config.py and put in your api-key, username and password
+* load the plugin in your bot
+* run Pingdom getcheck or Pingdom getcheck "my check name" 
 
 
 Note: This is my 1st supybot plugin AND I'm a total python noob, so any suggestions/fixes are appreciated
