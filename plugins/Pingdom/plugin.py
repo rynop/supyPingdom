@@ -34,7 +34,7 @@ import supybot.conf as conf
 import supybot.plugins as plugins
 import supybot.ircutils as ircutils
 import supybot.callbacks as callbacks
-
+import supybot.ircmsgs as ircmsgs
 import pingdom
 import time
 
