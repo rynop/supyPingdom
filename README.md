@@ -23,7 +23,7 @@ Installation
   * add 'Pingdom' to the 'supybot.plugins:' directive
   * supybot.plugins.Pingdom: True
   * supybot.plugins.Pingdom.public: True (could be private if u wish)
-  * You must restart your bot (relaod wont pick up plugin)
+  * You must restart your bot (reload wont pick up plugin)
 * run Pingdom getcheck or Pingdom getcheck "my check name" 
 * replies will always be private messages
 
