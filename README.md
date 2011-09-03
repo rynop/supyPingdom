@@ -16,3 +16,6 @@ Requirements
 Installation
 --------------------
 * modify Pingdom/config.py and put in your api-key, username and password
+
+
+Note: This is my 1st supybot plugin AND I'm a total python noob, so any suggestions/fixes are appreciated
