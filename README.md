@@ -17,6 +17,7 @@ Requirements
 
 Installation
 --------------------
+* Make sure you have installed pingdom-python (see requirements above)
 * clone, copy plugins/Pingdom dir to your bot's plugin directory
 * modify Pingdom/config.py and put in your api-key, username and password
 * load the plugin in your bot.  In your BotName.conf file add:
