@@ -2,6 +2,8 @@ supyPingdom
 =====================
 This is a [Pingdom](http://pingdom.com) IRC plugin for supybot
 
+Version 0.01
+
 Currently, the library supports:
 
 * list check(s)
