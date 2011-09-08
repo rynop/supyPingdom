@@ -30,5 +30,3 @@ Installation
 
 
 Note: This is my 1st supybot plugin AND I'm a total python noob, so any suggestions/fixes are appreciated
-
-Test push from Egit
